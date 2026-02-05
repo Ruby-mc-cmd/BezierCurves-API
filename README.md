@@ -42,3 +42,5 @@ function #yrh.bezier_curves:3-cubic {t:<>, p0_x:<>, p0_y:<>, p0_z:<> p1_x:<>, p1
 - `p2_x`,`p2_y`,`p2_z` 第３座標
 - `p3_x`,`p3_y`,`p3_z` 第４座標
   少数第一位まで反映
+
+- `run_command` 実行するコマンド
