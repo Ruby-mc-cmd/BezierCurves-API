@@ -5,7 +5,7 @@
 #
 # 式 : B(t) = (1-t)³P₀ + 3(1-t)²tP₁ + 3(1-t)t²P₂ + t³P₃ (0≦t≦1)
 #
-# macro : {t, p0_x, p0_y, p0_z, p1_x, p1_y, p1_z, p2_x, p2_y, p2_z, p3_x, p3_y, p3_z}
+# macro : {t, p0_x, p0_y, p0_z, p1_x, p1_y, p1_z, p2_x, p2_y, p2_z, p3_x, p3_y, p3_z, run_command}
 
 # スコアを作成
 scoreboard objectives add yrhBezierCurves.Global dummy
